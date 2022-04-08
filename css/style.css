@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-/* 共通
--------------------------------------------------------------*/
 body {
   font-family: sans-serif;
   background-color: #EAEAEA;
@@ -41,7 +39,6 @@ figure {
 figcaption {
   margin-top: 30px;
 }
-
 
 
 
